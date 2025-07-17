@@ -3,7 +3,7 @@ Login form with GUI, built with Python's tkinter library.
 
 Features:
 
-User Authentication: Verifies username and password against a JSON file (login.json).
+Verifies username and password against a JSON file (login.json).
 
 After 3 failed login attempts, the login is locked for 2 minutes.
 
